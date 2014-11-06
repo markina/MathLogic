@@ -1,0 +1,210 @@
+axiom 5
+axiom 0
+MP 1  0
+axiom 0
+axiom 0
+MP 4  3
+axiom 1
+MP 6  2
+MP 7  5
+axiom 0
+axiom 0
+MP 10  9
+axiom 0
+axiom 0
+MP 13  12
+axiom 1
+MP 15  11
+MP 16  14
+axiom 1
+axiom 0
+MP 19  18
+axiom 1
+MP 21  8
+MP 22  20
+axiom 1
+MP 24  17
+MP 25  23
+axiom 2
+axiom 0
+MP 28  27
+axiom 0
+axiom 0
+MP 31  30
+axiom 1
+MP 33  29
+MP 34  32
+axiom 0
+axiom 0
+MP 37  36
+axiom 0
+axiom 0
+MP 40  39
+axiom 1
+MP 42  38
+MP 43  41
+axiom 1
+axiom 0
+MP 46  45
+axiom 1
+MP 48  35
+MP 49  47
+axiom 1
+MP 51  44
+MP 52  50
+axiom 0
+axiom 1
+MP 55  54
+axiom 0
+MP 56  57
+axiom 0
+axiom 0
+MP 60  59
+axiom 1
+MP 62  58
+axiom 0
+axiom 0
+axiom 0
+MP 66  65
+axiom 0
+axiom 0
+MP 69  68
+axiom 1
+MP 71  67
+MP 72  70
+axiom 1
+axiom 0
+MP 75  74
+axiom 1
+MP 77  59
+MP 78  76
+axiom 1
+MP 80  73
+MP 81  79
+axiom 1
+axiom 0
+MP 84  83
+axiom 0
+axiom 0
+MP 87  86
+axiom 1
+MP 89  85
+MP 90  88
+axiom 1
+axiom 0
+MP 93  92
+axiom 1
+MP 95  82
+MP 96  94
+axiom 1
+MP 98  91
+MP 99  97
+axiom 1
+axiom 0
+MP 102  101
+axiom 1
+MP 104  26
+MP 105  103
+axiom 1
+MP 107  100
+MP 108  106
+axiom 1
+axiom 0
+MP 111  110
+axiom 0
+axiom 0
+MP 114  113
+axiom 1
+MP 116  112
+MP 117  115
+axiom 1
+axiom 0
+MP 120  119
+axiom 1
+MP 122  109
+MP 123  121
+axiom 1
+MP 125  118
+MP 126  124
+axiom 1
+axiom 0
+MP 129  128
+axiom 1
+MP 131  53
+MP 132  130
+axiom 1
+MP 134  127
+MP 135  133
+axiom 0
+axiom 0
+MP 138  137
+axiom 0
+axiom 0
+MP 141  140
+axiom 1
+MP 143  139
+MP 144  142
+axiom 1
+axiom 0
+MP 147  146
+axiom 0
+axiom 0
+MP 150  149
+axiom 1
+MP 152  148
+MP 153  151
+axiom 1
+axiom 0
+MP 156  155
+axiom 1
+MP 158  145
+MP 159  157
+axiom 1
+MP 161  154
+MP 162  160
+axiom 0
+axiom 0
+MP 165  164
+axiom 0
+axiom 0
+MP 168  167
+axiom 1
+MP 170  166
+MP 171  169
+axiom 1
+axiom 0
+MP 174  173
+axiom 1
+MP 176  172
+MP 177  175
+axiom 1
+MP 179  163
+MP 180  178
+axiom 1
+axiom 0
+MP 183  182
+axiom 0
+axiom 0
+MP 186  185
+axiom 1
+MP 188  184
+MP 189  187
+axiom 1
+axiom 0
+MP 192  191
+axiom 1
+MP 194  181
+MP 195  193
+axiom 1
+MP 197  190
+MP 198  196
+axiom 1
+axiom 0
+MP 201  200
+axiom 1
+MP 203  136
+MP 204  202
+axiom 1
+MP 206  199
+MP 207  205
+Доказательство корректно.

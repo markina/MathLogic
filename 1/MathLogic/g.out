@@ -1,0 +1,70 @@
+axiom 0
+axiom 0
+MP 1  0
+axiom 1
+axiom 0
+MP 4  3
+axiom 1
+MP 6  2
+MP 7  5
+axiom 0
+axiom 0
+MP 10  9
+axiom 1
+MP 12  11
+MP 13  8
+axiom 0
+axiom 0
+MP 16  15
+axiom 0
+axiom 0
+MP 19  18
+axiom 1
+MP 21  17
+MP 22  20
+axiom 1
+axiom 0
+MP 25  24
+axiom 1
+MP 27  14
+MP 28  26
+axiom 0
+axiom 0
+MP 16  15
+axiom 4
+axiom 0
+MP 34  33
+axiom 0
+axiom 0
+MP 37  36
+axiom 1
+MP 39  35
+MP 40  38
+axiom 8
+axiom 0
+MP 43  42
+axiom 0
+axiom 0
+MP 46  45
+axiom 1
+MP 48  44
+MP 49  47
+axiom 1
+axiom 0
+MP 52  51
+axiom 1
+MP 54  41
+MP 55  53
+axiom 1
+MP 57  50
+MP 58  56
+axiom 1
+axiom 0
+MP 61  60
+axiom 1
+MP 63  17
+MP 64  62
+axiom 1
+MP 66  59
+MP 67  65
+Доказательство корректно.

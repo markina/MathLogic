@@ -1,0 +1,2 @@
+|-(P(x)->(@b?bP(f(b,b))->?bP(f(a,b))))
+NotCorr 1

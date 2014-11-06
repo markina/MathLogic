@@ -1,0 +1,3102 @@
+axiom 0
+axiom 0
+MP 1 0
+axiom 1
+axiom 0
+MP 4 3
+axiom 1
+MP 6 2
+MP 7 5
+axiom 0
+axiom 0
+MP 10 9
+axiom 1
+MP 12 11
+MP 13 8
+axiom 0
+axiom 1
+MP 16 15
+axiom 0
+MP 17 18
+axiom 0
+axiom 0
+MP 21 20
+axiom 1
+MP 23 19
+axiom 0
+axiom 0
+axiom 0
+MP 21 20
+axiom 0
+axiom 0
+MP 30 29
+axiom 1
+MP 32 22
+MP 33 31
+axiom 1
+axiom 0
+MP 36 35
+axiom 1
+MP 38 20
+MP 39 37
+axiom 1
+MP 41 34
+MP 42 40
+axiom 0
+axiom 1
+MP 16 15
+axiom 0
+MP 17 18
+axiom 0
+axiom 0
+MP 21 20
+axiom 1
+MP 23 19
+axiom 0
+axiom 8
+axiom 0
+MP 56 55
+axiom 0
+axiom 0
+MP 59 58
+axiom 1
+MP 61 57
+MP 62 60
+axiom 0
+axiom 0
+MP 65 64
+axiom 0
+axiom 0
+MP 68 67
+axiom 1
+MP 70 66
+MP 71 69
+axiom 1
+axiom 0
+MP 74 73
+axiom 1
+MP 76 20
+MP 77 75
+axiom 1
+MP 79 72
+MP 80 78
+axiom 1
+axiom 0
+MP 83 82
+axiom 1
+MP 85 81
+MP 86 84
+axiom 1
+MP 88 63
+MP 89 87
+axiom 0
+axiom 0
+MP 92 91
+axiom 0
+axiom 0
+MP 95 94
+axiom 1
+MP 97 93
+MP 98 96
+axiom 1
+axiom 0
+MP 101 100
+axiom 0
+axiom 0
+MP 104 103
+axiom 1
+MP 106 102
+MP 107 105
+axiom 1
+axiom 0
+MP 110 109
+axiom 1
+MP 112 99
+MP 113 111
+axiom 1
+MP 115 108
+MP 116 114
+axiom 0
+axiom 0
+MP 119 118
+axiom 0
+axiom 0
+MP 122 121
+axiom 1
+MP 124 120
+MP 125 123
+axiom 1
+axiom 0
+MP 128 127
+axiom 1
+MP 130 126
+MP 131 129
+axiom 1
+MP 133 117
+MP 134 132
+axiom 1
+axiom 0
+MP 137 136
+axiom 1
+MP 139 135
+MP 140 138
+axiom 1
+MP 142 90
+MP 143 141
+axiom 0
+axiom 0
+MP 1 0
+axiom 1
+axiom 0
+MP 4 3
+axiom 1
+MP 6 2
+MP 7 5
+axiom 0
+axiom 0
+MP 10 9
+axiom 1
+MP 12 11
+MP 13 8
+axiom 8
+axiom 0
+MP 161 160
+axiom 0
+axiom 0
+MP 164 163
+axiom 1
+MP 166 162
+MP 167 165
+axiom 0
+axiom 0
+MP 170 169
+axiom 0
+axiom 0
+MP 173 172
+axiom 1
+MP 175 171
+MP 176 174
+axiom 1
+axiom 0
+MP 179 178
+axiom 1
+MP 181 14
+MP 182 180
+axiom 0
+axiom 0
+MP 170 169
+axiom 1
+axiom 0
+MP 188 187
+axiom 1
+MP 190 171
+MP 191 189
+axiom 1
+MP 193 168
+MP 194 192
+axiom 0
+axiom 0
+MP 197 196
+axiom 0
+axiom 0
+MP 200 199
+axiom 1
+MP 202 198
+MP 203 201
+axiom 1
+axiom 0
+MP 206 205
+axiom 0
+axiom 0
+MP 209 208
+axiom 1
+MP 211 207
+MP 212 210
+axiom 1
+axiom 0
+MP 215 214
+axiom 1
+MP 217 204
+MP 218 216
+axiom 1
+MP 220 213
+MP 221 219
+axiom 0
+axiom 0
+MP 224 223
+axiom 0
+axiom 0
+MP 227 226
+axiom 1
+MP 229 225
+MP 230 228
+axiom 1
+axiom 0
+MP 233 232
+axiom 1
+MP 235 231
+MP 236 234
+axiom 1
+MP 238 222
+MP 239 237
+axiom 1
+axiom 0
+MP 242 241
+axiom 1
+MP 244 240
+MP 245 243
+axiom 1
+MP 247 195
+MP 248 246
+axiom 0
+axiom 0
+MP 92 91
+axiom 0
+axiom 0
+MP 95 94
+axiom 1
+MP 97 93
+MP 98 96
+axiom 1
+axiom 0
+MP 101 100
+axiom 0
+axiom 0
+MP 104 103
+axiom 1
+MP 106 102
+MP 107 105
+axiom 1
+axiom 0
+MP 110 109
+axiom 1
+MP 112 99
+MP 113 111
+axiom 1
+MP 115 108
+MP 116 114
+axiom 0
+axiom 0
+MP 119 118
+axiom 0
+axiom 0
+MP 122 121
+axiom 1
+MP 124 120
+MP 125 123
+axiom 1
+axiom 0
+MP 128 127
+axiom 1
+MP 130 126
+MP 131 129
+axiom 1
+MP 133 117
+MP 134 132
+axiom 1
+axiom 0
+MP 137 136
+axiom 1
+MP 139 135
+MP 140 138
+axiom 1
+MP 142 90
+MP 143 141
+axiom 0
+axiom 0
+MP 305 304
+axiom 0
+axiom 0
+MP 308 307
+axiom 1
+MP 310 306
+MP 311 309
+axiom 1
+axiom 0
+MP 314 313
+axiom 1
+MP 316 144
+MP 317 315
+axiom 1
+MP 319 312
+MP 320 318
+axiom 1
+axiom 0
+MP 242 241
+axiom 1
+MP 244 240
+MP 245 243
+axiom 1
+MP 247 195
+MP 248 246
+axiom 0
+axiom 0
+MP 332 331
+axiom 0
+axiom 0
+MP 335 334
+axiom 1
+MP 337 333
+MP 338 336
+axiom 1
+axiom 0
+MP 341 340
+axiom 1
+MP 343 249
+MP 344 342
+axiom 1
+MP 346 339
+MP 347 345
+axiom 0
+axiom 0
+MP 350 349
+axiom 0
+axiom 0
+MP 353 352
+axiom 1
+MP 355 351
+MP 356 354
+axiom 0
+axiom 0
+MP 359 358
+axiom 0
+axiom 0
+MP 362 361
+axiom 1
+MP 364 360
+MP 365 363
+axiom 1
+axiom 0
+MP 368 367
+axiom 1
+MP 370 357
+MP 371 369
+axiom 1
+MP 373 366
+MP 374 372
+axiom 1
+axiom 0
+MP 377 376
+axiom 0
+axiom 0
+MP 380 379
+axiom 1
+MP 382 378
+MP 383 381
+axiom 1
+axiom 0
+MP 386 385
+axiom 1
+MP 388 321
+MP 389 387
+axiom 1
+MP 391 384
+MP 392 390
+axiom 1
+axiom 0
+MP 395 394
+axiom 1
+MP 397 375
+MP 398 396
+axiom 1
+MP 400 393
+MP 401 399
+axiom 0
+axiom 0
+MP 404 403
+axiom 0
+axiom 0
+MP 407 406
+axiom 1
+MP 409 405
+MP 410 408
+axiom 0
+axiom 0
+MP 413 412
+axiom 0
+axiom 0
+MP 416 415
+axiom 1
+MP 418 414
+MP 419 417
+axiom 1
+axiom 0
+MP 422 421
+axiom 1
+MP 424 411
+MP 425 423
+axiom 1
+MP 427 420
+MP 428 426
+axiom 1
+axiom 0
+MP 431 430
+axiom 0
+axiom 0
+MP 434 433
+axiom 1
+MP 436 432
+MP 437 435
+axiom 1
+axiom 0
+MP 440 439
+axiom 1
+MP 442 135
+MP 443 441
+axiom 1
+MP 445 438
+MP 446 444
+axiom 0
+axiom 0
+MP 404 403
+axiom 0
+axiom 0
+MP 407 406
+axiom 1
+MP 409 405
+MP 410 408
+axiom 8
+axiom 0
+MP 458 457
+axiom 0
+axiom 0
+MP 461 460
+axiom 1
+MP 463 459
+MP 464 462
+axiom 0
+axiom 0
+MP 467 466
+axiom 0
+axiom 0
+MP 470 469
+axiom 1
+MP 472 468
+MP 473 471
+axiom 1
+axiom 0
+MP 476 475
+axiom 1
+MP 478 465
+MP 479 477
+axiom 1
+MP 481 474
+MP 482 480
+axiom 1
+axiom 0
+MP 485 484
+axiom 0
+axiom 0
+MP 488 487
+axiom 1
+MP 490 486
+MP 491 489
+axiom 1
+axiom 0
+MP 494 493
+axiom 1
+MP 496 411
+MP 497 495
+axiom 1
+MP 499 492
+MP 500 498
+axiom 1
+axiom 0
+MP 503 502
+axiom 1
+MP 505 483
+MP 506 504
+axiom 1
+MP 508 501
+MP 509 507
+axiom 1
+axiom 0
+MP 512 511
+axiom 0
+axiom 0
+MP 515 514
+axiom 1
+MP 517 513
+MP 518 516
+axiom 1
+axiom 0
+MP 521 520
+axiom 1
+MP 523 402
+MP 524 522
+axiom 1
+MP 526 519
+MP 527 525
+axiom 1
+axiom 0
+MP 530 529
+axiom 1
+MP 532 510
+MP 533 531
+axiom 1
+MP 535 528
+MP 536 534
+axiom 9
+axiom 0
+MP 539 538
+axiom 0
+axiom 0
+MP 542 541
+axiom 1
+MP 544 540
+MP 545 543
+axiom 0
+axiom 0
+MP 548 547
+axiom 0
+axiom 0
+MP 551 550
+axiom 1
+MP 553 549
+MP 554 552
+axiom 1
+axiom 0
+MP 557 556
+axiom 1
+MP 559 546
+MP 560 558
+axiom 1
+MP 562 555
+MP 563 561
+axiom 1
+axiom 0
+MP 566 565
+axiom 0
+axiom 0
+MP 569 568
+axiom 1
+MP 571 567
+MP 572 570
+axiom 1
+axiom 0
+MP 575 574
+axiom 1
+MP 577 537
+MP 578 576
+axiom 1
+MP 580 573
+MP 581 579
+axiom 1
+axiom 0
+MP 584 583
+axiom 1
+MP 586 564
+MP 587 585
+axiom 1
+MP 589 582
+MP 590 588
+axiom 0
+axiom 0
+MP 593 592
+axiom 0
+axiom 0
+MP 596 595
+axiom 1
+MP 598 594
+MP 599 597
+axiom 1
+axiom 0
+MP 602 601
+axiom 1
+MP 604 591
+MP 605 603
+axiom 1
+MP 607 600
+MP 608 606
+axiom 0
+axiom 0
+MP 197 196
+axiom 1
+axiom 0
+MP 206 205
+axiom 1
+MP 616 198
+MP 617 207
+axiom 0
+axiom 0
+MP 224 223
+axiom 1
+MP 622 225
+MP 623 618
+axiom 0
+axiom 1
+MP 16 15
+axiom 0
+MP 17 18
+axiom 0
+axiom 0
+MP 631 630
+axiom 1
+MP 633 19
+axiom 0
+axiom 0
+axiom 0
+MP 21 20
+axiom 0
+axiom 0
+MP 640 639
+axiom 1
+MP 642 22
+MP 643 641
+axiom 1
+axiom 0
+MP 646 645
+axiom 1
+MP 648 630
+MP 649 647
+axiom 1
+MP 651 644
+MP 652 650
+axiom 0
+axiom 1
+MP 16 15
+axiom 0
+MP 17 18
+axiom 0
+axiom 0
+MP 631 630
+axiom 1
+MP 633 19
+axiom 0
+axiom 8
+axiom 0
+MP 56 55
+axiom 0
+axiom 0
+MP 669 668
+axiom 1
+MP 671 57
+MP 672 670
+axiom 0
+axiom 0
+MP 65 64
+axiom 0
+axiom 0
+MP 678 677
+axiom 1
+MP 680 66
+MP 681 679
+axiom 1
+axiom 0
+MP 684 683
+axiom 1
+MP 686 630
+MP 687 685
+axiom 1
+MP 689 682
+MP 690 688
+axiom 1
+axiom 0
+MP 693 692
+axiom 1
+MP 695 691
+MP 696 694
+axiom 1
+MP 698 673
+MP 699 697
+axiom 0
+axiom 0
+MP 92 91
+axiom 0
+axiom 0
+MP 705 704
+axiom 1
+MP 707 93
+MP 708 706
+axiom 1
+axiom 0
+MP 101 100
+axiom 0
+axiom 0
+MP 714 713
+axiom 1
+MP 716 102
+MP 717 715
+axiom 1
+axiom 0
+MP 720 719
+axiom 1
+MP 722 709
+MP 723 721
+axiom 1
+MP 725 718
+MP 726 724
+axiom 0
+axiom 0
+MP 119 118
+axiom 0
+axiom 0
+MP 732 731
+axiom 1
+MP 734 120
+MP 735 733
+axiom 1
+axiom 0
+MP 738 737
+axiom 1
+MP 740 736
+MP 741 739
+axiom 1
+MP 743 727
+MP 744 742
+axiom 1
+axiom 0
+MP 747 746
+axiom 1
+MP 749 745
+MP 750 748
+axiom 1
+MP 752 700
+MP 753 751
+axiom 0
+axiom 0
+MP 197 196
+axiom 1
+axiom 0
+MP 206 205
+axiom 1
+MP 616 198
+MP 617 207
+axiom 0
+axiom 0
+MP 224 223
+axiom 1
+MP 622 225
+MP 623 618
+axiom 0
+axiom 0
+MP 771 770
+axiom 0
+axiom 0
+MP 774 773
+axiom 1
+MP 776 772
+MP 777 775
+axiom 1
+axiom 0
+MP 780 779
+axiom 1
+MP 782 624
+MP 783 781
+axiom 0
+axiom 0
+MP 771 770
+axiom 0
+axiom 0
+MP 593 592
+axiom 0
+axiom 0
+MP 792 791
+axiom 1
+MP 794 594
+MP 795 793
+axiom 1
+axiom 0
+MP 798 797
+axiom 1
+MP 800 772
+MP 801 799
+axiom 1
+MP 803 796
+MP 804 802
+axiom 5
+axiom 0
+MP 807 806
+axiom 8
+axiom 0
+MP 810 809
+axiom 0
+axiom 0
+MP 813 812
+axiom 1
+MP 815 811
+MP 816 814
+axiom 0
+axiom 0
+MP 819 818
+axiom 0
+axiom 0
+MP 822 821
+axiom 1
+MP 824 820
+MP 825 823
+axiom 1
+axiom 0
+MP 828 827
+axiom 1
+MP 830 817
+MP 831 829
+axiom 1
+MP 833 826
+MP 834 832
+axiom 5
+axiom 0
+MP 807 806
+axiom 0
+axiom 0
+MP 840 839
+axiom 1
+MP 842 808
+MP 843 841
+axiom 0
+axiom 0
+MP 846 845
+axiom 0
+axiom 0
+MP 849 848
+axiom 1
+MP 851 847
+MP 852 850
+axiom 1
+axiom 0
+MP 855 854
+axiom 1
+MP 857 844
+MP 858 856
+axiom 0
+axiom 0
+MP 846 845
+axiom 1
+axiom 0
+MP 864 863
+axiom 0
+axiom 0
+MP 867 866
+axiom 1
+MP 869 865
+MP 870 868
+axiom 1
+axiom 0
+MP 873 872
+axiom 1
+MP 875 847
+MP 876 874
+axiom 1
+MP 878 871
+MP 879 877
+axiom 1
+axiom 0
+MP 882 881
+axiom 1
+MP 884 835
+MP 885 883
+axiom 1
+MP 887 880
+MP 888 886
+axiom 0
+axiom 0
+MP 891 890
+axiom 0
+axiom 0
+MP 894 893
+axiom 1
+MP 896 892
+MP 897 895
+axiom 0
+axiom 0
+MP 900 899
+axiom 0
+axiom 0
+MP 903 902
+axiom 1
+MP 905 901
+MP 906 904
+axiom 1
+axiom 0
+MP 909 908
+axiom 1
+MP 911 898
+MP 912 910
+axiom 1
+MP 914 907
+MP 915 913
+axiom 0
+axiom 0
+MP 918 917
+axiom 0
+axiom 0
+MP 921 920
+axiom 1
+MP 923 919
+MP 924 922
+axiom 1
+axiom 0
+MP 927 926
+axiom 0
+axiom 0
+MP 930 929
+axiom 1
+MP 932 928
+MP 933 931
+axiom 1
+axiom 0
+MP 936 935
+axiom 1
+MP 938 925
+MP 939 937
+axiom 1
+MP 941 934
+MP 942 940
+axiom 0
+axiom 0
+MP 945 944
+axiom 0
+axiom 0
+MP 948 947
+axiom 1
+MP 950 946
+MP 951 949
+axiom 1
+axiom 0
+MP 954 953
+axiom 1
+MP 956 952
+MP 957 955
+axiom 1
+MP 959 943
+MP 960 958
+axiom 1
+axiom 0
+MP 963 962
+axiom 0
+axiom 0
+MP 966 965
+axiom 1
+MP 968 964
+MP 969 967
+axiom 1
+axiom 0
+MP 972 971
+axiom 1
+MP 974 961
+MP 975 973
+axiom 1
+MP 977 970
+MP 978 976
+axiom 0
+axiom 0
+MP 891 890
+axiom 0
+axiom 0
+MP 894 893
+axiom 1
+MP 896 892
+MP 897 895
+axiom 1
+axiom 0
+MP 990 989
+axiom 0
+axiom 0
+MP 993 992
+axiom 1
+MP 995 991
+MP 996 994
+axiom 1
+axiom 0
+MP 999 998
+axiom 1
+MP 1001 898
+MP 1002 1000
+axiom 1
+MP 1004 997
+MP 1005 1003
+axiom 1
+axiom 0
+MP 1008 1007
+axiom 1
+MP 1010 889
+MP 1011 1009
+axiom 1
+MP 1013 1006
+MP 1014 1012
+axiom 1
+MP 1016 808
+MP 1017 1015
+axiom 6
+axiom 0
+MP 1020 1019
+axiom 8
+axiom 0
+MP 1023 1022
+axiom 0
+axiom 0
+MP 1026 1025
+axiom 1
+MP 1028 1024
+MP 1029 1027
+axiom 0
+axiom 0
+MP 1032 1031
+axiom 0
+axiom 0
+MP 1035 1034
+axiom 1
+MP 1037 1033
+MP 1038 1036
+axiom 1
+axiom 0
+MP 1041 1040
+axiom 1
+MP 1043 1030
+MP 1044 1042
+axiom 1
+MP 1046 1039
+MP 1047 1045
+axiom 6
+axiom 0
+MP 1020 1019
+axiom 0
+axiom 0
+MP 1053 1052
+axiom 1
+MP 1055 1021
+MP 1056 1054
+axiom 0
+axiom 0
+MP 1059 1058
+axiom 0
+axiom 0
+MP 1062 1061
+axiom 1
+MP 1064 1060
+MP 1065 1063
+axiom 1
+axiom 0
+MP 1068 1067
+axiom 1
+MP 1070 1057
+MP 1071 1069
+axiom 0
+axiom 0
+MP 1059 1058
+axiom 1
+axiom 0
+MP 1077 1076
+axiom 0
+axiom 0
+MP 1080 1079
+axiom 1
+MP 1082 1078
+MP 1083 1081
+axiom 1
+axiom 0
+MP 1086 1085
+axiom 1
+MP 1088 1060
+MP 1089 1087
+axiom 1
+MP 1091 1084
+MP 1092 1090
+axiom 1
+axiom 0
+MP 1095 1094
+axiom 1
+MP 1097 1048
+MP 1098 1096
+axiom 1
+MP 1100 1093
+MP 1101 1099
+axiom 0
+axiom 0
+MP 1104 1103
+axiom 0
+axiom 0
+MP 1107 1106
+axiom 1
+MP 1109 1105
+MP 1110 1108
+axiom 0
+axiom 0
+MP 1113 1112
+axiom 0
+axiom 0
+MP 1116 1115
+axiom 1
+MP 1118 1114
+MP 1119 1117
+axiom 1
+axiom 0
+MP 1122 1121
+axiom 1
+MP 1124 1111
+MP 1125 1123
+axiom 1
+MP 1127 1120
+MP 1128 1126
+axiom 0
+axiom 0
+MP 918 917
+axiom 0
+axiom 0
+MP 1134 1133
+axiom 1
+MP 1136 919
+MP 1137 1135
+axiom 1
+axiom 0
+MP 927 926
+axiom 0
+axiom 0
+MP 1143 1142
+axiom 1
+MP 1145 928
+MP 1146 1144
+axiom 1
+axiom 0
+MP 1149 1148
+axiom 1
+MP 1151 1138
+MP 1152 1150
+axiom 1
+MP 1154 1147
+MP 1155 1153
+axiom 0
+axiom 0
+MP 945 944
+axiom 0
+axiom 0
+MP 1161 1160
+axiom 1
+MP 1163 946
+MP 1164 1162
+axiom 1
+axiom 0
+MP 1167 1166
+axiom 1
+MP 1169 1165
+MP 1170 1168
+axiom 1
+MP 1172 1156
+MP 1173 1171
+axiom 1
+axiom 0
+MP 1176 1175
+axiom 0
+axiom 0
+MP 1179 1178
+axiom 1
+MP 1181 1177
+MP 1182 1180
+axiom 1
+axiom 0
+MP 1185 1184
+axiom 1
+MP 1187 1174
+MP 1188 1186
+axiom 1
+MP 1190 1183
+MP 1191 1189
+axiom 0
+axiom 0
+MP 1104 1103
+axiom 0
+axiom 0
+MP 1107 1106
+axiom 1
+MP 1109 1105
+MP 1110 1108
+axiom 1
+axiom 0
+MP 1203 1202
+axiom 0
+axiom 0
+MP 1206 1205
+axiom 1
+MP 1208 1204
+MP 1209 1207
+axiom 1
+axiom 0
+MP 1212 1211
+axiom 1
+MP 1214 1111
+MP 1215 1213
+axiom 1
+MP 1217 1210
+MP 1218 1216
+axiom 1
+axiom 0
+MP 1221 1220
+axiom 1
+MP 1223 1102
+MP 1224 1222
+axiom 1
+MP 1226 1219
+MP 1227 1225
+axiom 1
+MP 1229 1021
+MP 1230 1228
+axiom 8
+axiom 0
+MP 1233 1232
+axiom 1
+MP 1235 1018
+MP 1236 1234
+axiom 1
+MP 1238 1231
+MP 1239 1237
+axiom 9
+axiom 0
+MP 1242 1241
+axiom 1
+MP 1244 1240
+MP 1245 1243
+axiom 7
+axiom 0
+MP 1248 1247
+axiom 1
+MP 1250 609
+MP 1251 1249
+axiom 1
+MP 1253 805
+MP 1254 1252
+axiom 1
+MP 1256 1246
+MP 1257 1255
+axiom 0
+axiom 0
+MP 1260 0
+axiom 1
+axiom 0
+MP 1263 3
+axiom 1
+MP 1265 1261
+MP 1266 1264
+axiom 0
+axiom 0
+MP 1269 9
+axiom 1
+MP 1271 1270
+MP 1272 1267
+axiom 0
+axiom 1
+MP 100 91
+axiom 0
+MP 1276 118
+axiom 0
+axiom 0
+MP 1280 1279
+axiom 1
+MP 1282 1278
+axiom 0
+axiom 8
+axiom 0
+MP 1286 1285
+axiom 0
+axiom 0
+MP 1289 1288
+axiom 1
+MP 1291 1287
+MP 1292 1290
+axiom 0
+axiom 0
+MP 1295 1294
+axiom 0
+axiom 0
+MP 1298 1297
+axiom 1
+MP 1300 1296
+MP 1301 1299
+axiom 1
+axiom 0
+MP 1304 1303
+axiom 0
+axiom 0
+MP 1307 1306
+axiom 1
+MP 1309 1305
+MP 1310 1308
+axiom 1
+axiom 0
+MP 1313 1312
+axiom 1
+MP 1315 1302
+MP 1316 1314
+axiom 1
+MP 1318 1311
+MP 1319 1317
+axiom 0
+axiom 0
+MP 1322 1321
+axiom 0
+axiom 0
+MP 1325 1324
+axiom 1
+MP 1327 1323
+MP 1328 1326
+axiom 1
+axiom 0
+MP 1331 1330
+axiom 1
+MP 1333 1329
+MP 1334 1332
+axiom 1
+MP 1336 1320
+MP 1337 1335
+axiom 0
+axiom 0
+MP 1260 0
+axiom 1
+axiom 0
+MP 1263 3
+axiom 1
+MP 1265 1261
+MP 1266 1264
+axiom 0
+axiom 0
+MP 1269 9
+axiom 1
+MP 1271 1270
+MP 1272 1267
+axiom 0
+axiom 0
+MP 1355 1354
+axiom 0
+axiom 0
+MP 1358 1357
+axiom 1
+MP 1360 1356
+MP 1361 1359
+axiom 1
+axiom 0
+MP 1364 1363
+axiom 1
+MP 1366 1273
+MP 1367 1365
+axiom 0
+axiom 0
+MP 1355 1354
+axiom 1
+axiom 0
+MP 1373 1372
+axiom 0
+axiom 0
+MP 1376 1375
+axiom 1
+MP 1378 1374
+MP 1379 1377
+axiom 1
+axiom 0
+MP 1382 1381
+axiom 1
+MP 1384 1356
+MP 1385 1383
+axiom 1
+MP 1387 1380
+MP 1388 1386
+axiom 1
+axiom 0
+MP 1391 1390
+axiom 1
+MP 1393 1338
+MP 1394 1392
+axiom 1
+MP 1396 1389
+MP 1397 1395
+axiom 1
+axiom 0
+MP 1400 1399
+axiom 1
+MP 1402 1398
+MP 1403 1401
+axiom 1
+MP 1405 1293
+MP 1406 1404
+axiom 0
+axiom 1
+MP 100 91
+axiom 0
+MP 1276 118
+axiom 0
+axiom 0
+MP 1280 1279
+axiom 1
+MP 1282 1278
+axiom 0
+axiom 0
+axiom 0
+MP 1420 1419
+axiom 0
+axiom 0
+MP 1423 1422
+axiom 1
+MP 1425 1421
+MP 1426 1424
+axiom 1
+axiom 0
+MP 1429 1428
+axiom 1
+MP 1431 1279
+MP 1432 1430
+axiom 1
+MP 1434 1427
+MP 1435 1433
+axiom 1
+axiom 0
+MP 1438 1437
+axiom 1
+MP 1440 1436
+MP 1441 1439
+axiom 1
+MP 1443 1407
+MP 1444 1442
+axiom 0
+axiom 1
+MP 100 91
+axiom 0
+MP 1276 118
+axiom 0
+axiom 0
+MP 1280 1279
+axiom 1
+MP 1282 1278
+axiom 0
+axiom 0
+axiom 0
+MP 1260 0
+axiom 1
+axiom 0
+MP 1263 3
+axiom 1
+MP 1265 1261
+MP 1266 1264
+axiom 0
+axiom 0
+MP 1269 9
+axiom 1
+MP 1271 1270
+MP 1272 1267
+axiom 8
+axiom 0
+MP 1473 160
+axiom 0
+axiom 0
+MP 1476 163
+axiom 1
+MP 1478 1474
+MP 1479 1477
+axiom 0
+axiom 0
+MP 1482 169
+axiom 0
+axiom 0
+MP 1485 172
+axiom 1
+MP 1487 1483
+MP 1488 1486
+axiom 1
+axiom 0
+MP 1491 178
+axiom 1
+MP 1493 1273
+MP 1494 1492
+axiom 0
+axiom 0
+MP 1482 169
+axiom 1
+axiom 0
+MP 1500 187
+axiom 1
+MP 1502 1483
+MP 1503 1501
+axiom 1
+MP 1505 1480
+MP 1506 1504
+axiom 0
+axiom 0
+MP 1509 196
+axiom 0
+axiom 0
+MP 1512 199
+axiom 1
+MP 1514 1510
+MP 1515 1513
+axiom 1
+axiom 0
+MP 1518 205
+axiom 0
+axiom 0
+MP 1521 208
+axiom 1
+MP 1523 1519
+MP 1524 1522
+axiom 1
+axiom 0
+MP 1527 214
+axiom 1
+MP 1529 1516
+MP 1530 1528
+axiom 1
+MP 1532 1525
+MP 1533 1531
+axiom 0
+axiom 0
+MP 1536 223
+axiom 0
+axiom 0
+MP 1539 226
+axiom 1
+MP 1541 1537
+MP 1542 1540
+axiom 1
+axiom 0
+MP 1545 232
+axiom 1
+MP 1547 1543
+MP 1548 1546
+axiom 1
+MP 1550 1534
+MP 1551 1549
+axiom 1
+axiom 0
+MP 1554 241
+axiom 1
+MP 1556 1552
+MP 1557 1555
+axiom 1
+MP 1559 1507
+MP 1560 1558
+axiom 8
+axiom 0
+MP 1563 1562
+axiom 0
+axiom 0
+MP 1566 1565
+axiom 1
+MP 1568 1564
+MP 1569 1567
+axiom 0
+axiom 0
+MP 1572 1571
+axiom 0
+axiom 0
+MP 1575 1574
+axiom 1
+MP 1577 1573
+MP 1578 1576
+axiom 1
+axiom 0
+MP 1581 1580
+axiom 0
+axiom 0
+MP 1584 1583
+axiom 1
+MP 1586 1582
+MP 1587 1585
+axiom 1
+axiom 0
+MP 1590 1589
+axiom 1
+MP 1592 1579
+MP 1593 1591
+axiom 1
+MP 1595 1588
+MP 1596 1594
+axiom 0
+axiom 0
+MP 1599 1598
+axiom 0
+axiom 0
+MP 1602 1601
+axiom 1
+MP 1604 1600
+MP 1605 1603
+axiom 1
+axiom 0
+MP 1608 1607
+axiom 1
+MP 1610 1606
+MP 1611 1609
+axiom 1
+MP 1613 1597
+MP 1614 1612
+axiom 0
+axiom 1
+MP 100 91
+axiom 0
+MP 1276 118
+axiom 0
+axiom 0
+MP 1280 1279
+axiom 1
+MP 1282 1278
+axiom 0
+axiom 0
+axiom 0
+MP 1628 1627
+axiom 0
+axiom 0
+MP 1631 1630
+axiom 1
+MP 1633 1629
+MP 1634 1632
+axiom 1
+axiom 0
+MP 1637 1636
+axiom 1
+MP 1639 1279
+MP 1640 1638
+axiom 1
+MP 1642 1635
+MP 1643 1641
+axiom 1
+axiom 0
+MP 1646 1645
+axiom 0
+axiom 0
+MP 1649 1648
+axiom 1
+MP 1651 1647
+MP 1652 1650
+axiom 1
+axiom 0
+MP 1655 1654
+axiom 1
+MP 1657 1644
+MP 1658 1656
+axiom 1
+MP 1660 1653
+MP 1661 1659
+axiom 1
+axiom 0
+MP 1664 1663
+axiom 1
+MP 1666 1615
+MP 1667 1665
+axiom 1
+MP 1669 1662
+MP 1670 1668
+axiom 1
+axiom 0
+MP 1673 1672
+axiom 1
+MP 1675 1671
+MP 1676 1674
+axiom 1
+MP 1678 1570
+MP 1679 1677
+axiom 1
+axiom 0
+MP 1554 241
+axiom 1
+MP 1556 1552
+MP 1557 1555
+axiom 1
+MP 1559 1507
+MP 1560 1558
+axiom 0
+axiom 0
+MP 1691 1690
+axiom 0
+axiom 0
+MP 1694 1693
+axiom 1
+MP 1696 1692
+MP 1697 1695
+axiom 1
+axiom 0
+MP 1700 1699
+axiom 1
+MP 1702 1561
+MP 1703 1701
+axiom 1
+MP 1705 1698
+MP 1706 1704
+axiom 1
+axiom 0
+MP 1709 1708
+axiom 1
+MP 1711 1707
+MP 1712 1710
+axiom 1
+MP 1714 1680
+MP 1715 1713
+axiom 0
+axiom 0
+MP 1295 1294
+axiom 0
+axiom 0
+MP 1298 1297
+axiom 1
+MP 1300 1296
+MP 1301 1299
+axiom 1
+axiom 0
+MP 1304 1303
+axiom 0
+axiom 0
+MP 1307 1306
+axiom 1
+MP 1309 1305
+MP 1310 1308
+axiom 1
+axiom 0
+MP 1313 1312
+axiom 1
+MP 1315 1302
+MP 1316 1314
+axiom 1
+MP 1318 1311
+MP 1319 1317
+axiom 0
+axiom 0
+MP 1322 1321
+axiom 0
+axiom 0
+MP 1325 1324
+axiom 1
+MP 1327 1323
+MP 1328 1326
+axiom 1
+axiom 0
+MP 1331 1330
+axiom 1
+MP 1333 1329
+MP 1334 1332
+axiom 1
+MP 1336 1320
+MP 1337 1335
+axiom 1
+axiom 0
+MP 1438 1437
+axiom 1
+MP 1440 1436
+MP 1441 1439
+axiom 1
+MP 1443 1407
+MP 1444 1442
+axiom 0
+axiom 0
+MP 1772 1771
+axiom 0
+axiom 0
+MP 1775 1774
+axiom 1
+MP 1777 1773
+MP 1778 1776
+axiom 1
+axiom 0
+MP 1781 1780
+axiom 1
+MP 1783 1445
+MP 1784 1782
+axiom 1
+MP 1786 1779
+MP 1787 1785
+axiom 1
+axiom 0
+MP 1709 1708
+axiom 1
+MP 1711 1707
+MP 1712 1710
+axiom 1
+MP 1714 1680
+MP 1715 1713
+axiom 0
+axiom 0
+MP 1799 1798
+axiom 0
+axiom 0
+MP 1802 1801
+axiom 1
+MP 1804 1800
+MP 1805 1803
+axiom 1
+axiom 0
+MP 1808 1807
+axiom 1
+MP 1810 1716
+MP 1811 1809
+axiom 1
+MP 1813 1806
+MP 1814 1812
+axiom 0
+axiom 0
+MP 1817 1816
+axiom 0
+axiom 0
+MP 1820 1819
+axiom 1
+MP 1822 1818
+MP 1823 1821
+axiom 0
+axiom 0
+MP 1826 1825
+axiom 0
+axiom 0
+MP 1829 1828
+axiom 1
+MP 1831 1827
+MP 1832 1830
+axiom 1
+axiom 0
+MP 1835 1834
+axiom 1
+MP 1837 1824
+MP 1838 1836
+axiom 1
+MP 1840 1833
+MP 1841 1839
+axiom 1
+axiom 0
+MP 1844 1843
+axiom 0
+axiom 0
+MP 1847 1846
+axiom 1
+MP 1849 1845
+MP 1850 1848
+axiom 1
+axiom 0
+MP 1853 1852
+axiom 1
+MP 1855 1788
+MP 1856 1854
+axiom 1
+MP 1858 1851
+MP 1859 1857
+axiom 1
+axiom 0
+MP 1862 1861
+axiom 1
+MP 1864 1842
+MP 1865 1863
+axiom 1
+MP 1867 1860
+MP 1868 1866
+axiom 0
+axiom 0
+MP 1871 1870
+axiom 0
+axiom 0
+MP 1874 1873
+axiom 1
+MP 1876 1872
+MP 1877 1875
+axiom 0
+axiom 0
+MP 1880 1879
+axiom 0
+axiom 0
+MP 1883 1882
+axiom 1
+MP 1885 1881
+MP 1886 1884
+axiom 1
+axiom 0
+MP 1889 1888
+axiom 1
+MP 1891 1878
+MP 1892 1890
+axiom 1
+MP 1894 1887
+MP 1895 1893
+axiom 1
+axiom 0
+MP 1898 1897
+axiom 0
+axiom 0
+MP 1901 1900
+axiom 1
+MP 1903 1899
+MP 1904 1902
+axiom 1
+axiom 0
+MP 1907 1906
+axiom 1
+MP 1909 1338
+MP 1910 1908
+axiom 1
+MP 1912 1905
+MP 1913 1911
+axiom 0
+axiom 0
+MP 1871 1870
+axiom 0
+axiom 0
+MP 1874 1873
+axiom 1
+MP 1876 1872
+MP 1877 1875
+axiom 8
+axiom 0
+MP 1925 1924
+axiom 0
+axiom 0
+MP 1928 1927
+axiom 1
+MP 1930 1926
+MP 1931 1929
+axiom 0
+axiom 0
+MP 1934 1933
+axiom 0
+axiom 0
+MP 1937 1936
+axiom 1
+MP 1939 1935
+MP 1940 1938
+axiom 1
+axiom 0
+MP 1943 1942
+axiom 1
+MP 1945 1932
+MP 1946 1944
+axiom 1
+MP 1948 1941
+MP 1949 1947
+axiom 1
+axiom 0
+MP 1952 1951
+axiom 0
+axiom 0
+MP 1955 1954
+axiom 1
+MP 1957 1953
+MP 1958 1956
+axiom 1
+axiom 0
+MP 1961 1960
+axiom 1
+MP 1963 1878
+MP 1964 1962
+axiom 1
+MP 1966 1959
+MP 1967 1965
+axiom 1
+axiom 0
+MP 1970 1969
+axiom 1
+MP 1972 1950
+MP 1973 1971
+axiom 1
+MP 1975 1968
+MP 1976 1974
+axiom 1
+axiom 0
+MP 1979 1978
+axiom 0
+axiom 0
+MP 1982 1981
+axiom 1
+MP 1984 1980
+MP 1985 1983
+axiom 1
+axiom 0
+MP 1988 1987
+axiom 1
+MP 1990 1869
+MP 1991 1989
+axiom 1
+MP 1993 1986
+MP 1994 1992
+axiom 1
+axiom 0
+MP 1997 1996
+axiom 1
+MP 1999 1977
+MP 2000 1998
+axiom 1
+MP 2002 1995
+MP 2003 2001
+axiom 9
+axiom 0
+MP 2006 2005
+axiom 0
+axiom 0
+MP 2009 2008
+axiom 1
+MP 2011 2007
+MP 2012 2010
+axiom 0
+axiom 0
+MP 2015 2014
+axiom 0
+axiom 0
+MP 2018 2017
+axiom 1
+MP 2020 2016
+MP 2021 2019
+axiom 1
+axiom 0
+MP 2024 2023
+axiom 1
+MP 2026 2013
+MP 2027 2025
+axiom 1
+MP 2029 2022
+MP 2030 2028
+axiom 1
+axiom 0
+MP 2033 2032
+axiom 0
+axiom 0
+MP 2036 2035
+axiom 1
+MP 2038 2034
+MP 2039 2037
+axiom 1
+axiom 0
+MP 2042 2041
+axiom 1
+MP 2044 2004
+MP 2045 2043
+axiom 1
+MP 2047 2040
+MP 2048 2046
+axiom 1
+axiom 0
+MP 2051 2050
+axiom 1
+MP 2053 2031
+MP 2054 2052
+axiom 1
+MP 2056 2049
+MP 2057 2055
+axiom 0
+axiom 0
+MP 1509 196
+axiom 1
+axiom 0
+MP 1518 205
+axiom 1
+MP 2065 1510
+MP 2066 1519
+axiom 0
+axiom 0
+MP 1536 223
+axiom 1
+MP 2071 1537
+MP 2072 2067
+axiom 0
+axiom 1
+MP 100 91
+axiom 0
+MP 1276 118
+axiom 0
+axiom 0
+MP 2080 2079
+axiom 1
+MP 2082 1278
+axiom 0
+axiom 0
+axiom 0
+MP 1260 0
+axiom 0
+axiom 0
+MP 2089 2088
+axiom 1
+MP 2091 1261
+MP 2092 2090
+axiom 1
+axiom 0
+MP 1263 3
+axiom 0
+axiom 0
+MP 2098 2097
+axiom 1
+MP 2100 1264
+MP 2101 2099
+axiom 1
+axiom 0
+MP 2104 2103
+axiom 1
+MP 2106 2093
+MP 2107 2105
+axiom 1
+MP 2109 2102
+MP 2110 2108
+axiom 0
+axiom 0
+MP 1269 9
+axiom 0
+axiom 0
+MP 2116 2115
+axiom 1
+MP 2118 1270
+MP 2119 2117
+axiom 1
+axiom 0
+MP 2122 2121
+axiom 1
+MP 2124 2120
+MP 2125 2123
+axiom 1
+MP 2127 2111
+MP 2128 2126
+axiom 0
+axiom 0
+MP 1509 196
+axiom 1
+axiom 0
+MP 1518 205
+axiom 1
+MP 2065 1510
+MP 2066 1519
+axiom 0
+axiom 0
+MP 1536 223
+axiom 1
+MP 2071 1537
+MP 2072 2067
+axiom 0
+axiom 0
+MP 2146 2145
+axiom 0
+axiom 0
+MP 2149 2148
+axiom 1
+MP 2151 2147
+MP 2152 2150
+axiom 1
+axiom 0
+MP 2155 2154
+axiom 1
+MP 2157 2073
+MP 2158 2156
+axiom 0
+axiom 0
+MP 2146 2145
+axiom 0
+axiom 1
+MP 100 91
+axiom 0
+MP 1276 118
+axiom 0
+axiom 0
+MP 2080 2079
+axiom 1
+MP 2082 1278
+axiom 0
+axiom 0
+axiom 0
+MP 1280 1279
+axiom 0
+axiom 0
+MP 2178 2177
+axiom 1
+MP 2180 1281
+MP 2181 2179
+axiom 1
+axiom 0
+MP 2184 2183
+axiom 1
+MP 2186 2079
+MP 2187 2185
+axiom 1
+MP 2189 2182
+MP 2190 2188
+axiom 0
+axiom 0
+MP 2193 770
+axiom 0
+axiom 0
+MP 2196 773
+axiom 1
+MP 2198 2194
+MP 2199 2197
+axiom 0
+axiom 0
+MP 2202 2201
+axiom 0
+axiom 0
+MP 2205 2204
+axiom 1
+MP 2207 2203
+MP 2208 2206
+axiom 1
+axiom 0
+MP 2211 2210
+axiom 1
+MP 2213 2200
+MP 2214 2212
+axiom 1
+MP 2216 2209
+MP 2217 2215
+axiom 1
+axiom 0
+MP 2220 2219
+axiom 0
+axiom 0
+MP 2223 2222
+axiom 1
+MP 2225 2221
+MP 2226 2224
+axiom 1
+axiom 0
+MP 2229 2228
+axiom 1
+MP 2231 2147
+MP 2232 2230
+axiom 1
+MP 2234 2227
+MP 2235 2233
+axiom 1
+axiom 0
+MP 2238 2237
+axiom 1
+MP 2240 2218
+MP 2241 2239
+axiom 1
+MP 2243 2236
+MP 2244 2242
+axiom 0
+axiom 0
+MP 2247 2246
+axiom 0
+axiom 0
+MP 2250 2249
+axiom 1
+MP 2252 2248
+MP 2253 2251
+axiom 0
+axiom 0
+MP 2256 2255
+axiom 0
+axiom 0
+MP 2259 2258
+axiom 1
+MP 2261 2257
+MP 2262 2260
+axiom 1
+axiom 0
+MP 2265 2264
+axiom 1
+MP 2267 2254
+MP 2268 2266
+axiom 1
+MP 2270 2263
+MP 2271 2269
+axiom 1
+axiom 0
+MP 2274 2273
+axiom 0
+axiom 0
+MP 2277 2276
+axiom 1
+MP 2279 2275
+MP 2280 2278
+axiom 1
+axiom 0
+MP 2283 2282
+axiom 1
+MP 2285 2129
+MP 2286 2284
+axiom 1
+MP 2288 2281
+MP 2289 2287
+axiom 0
+axiom 0
+MP 2247 2246
+axiom 0
+axiom 0
+MP 2250 2249
+axiom 1
+MP 2252 2248
+MP 2253 2251
+axiom 8
+axiom 0
+MP 2301 2300
+axiom 0
+axiom 0
+MP 2304 2303
+axiom 1
+MP 2306 2302
+MP 2307 2305
+axiom 0
+axiom 0
+MP 2310 2309
+axiom 0
+axiom 0
+MP 2313 2312
+axiom 1
+MP 2315 2311
+MP 2316 2314
+axiom 1
+axiom 0
+MP 2319 2318
+axiom 1
+MP 2321 2308
+MP 2322 2320
+axiom 1
+MP 2324 2317
+MP 2325 2323
+axiom 1
+axiom 0
+MP 2328 2327
+axiom 0
+axiom 0
+MP 2331 2330
+axiom 1
+MP 2333 2329
+MP 2334 2332
+axiom 1
+axiom 0
+MP 2337 2336
+axiom 1
+MP 2339 2254
+MP 2340 2338
+axiom 1
+MP 2342 2335
+MP 2343 2341
+axiom 1
+axiom 0
+MP 2346 2345
+axiom 1
+MP 2348 2326
+MP 2349 2347
+axiom 1
+MP 2351 2344
+MP 2352 2350
+axiom 1
+axiom 0
+MP 2355 2354
+axiom 0
+axiom 0
+MP 2358 2357
+axiom 1
+MP 2360 2356
+MP 2361 2359
+axiom 1
+axiom 0
+MP 2364 2363
+axiom 1
+MP 2366 2245
+MP 2367 2365
+axiom 1
+MP 2369 2362
+MP 2370 2368
+axiom 1
+axiom 0
+MP 2373 2372
+axiom 1
+MP 2375 2353
+MP 2376 2374
+axiom 1
+MP 2378 2371
+MP 2379 2377
+axiom 9
+axiom 0
+MP 2382 2381
+axiom 0
+axiom 0
+MP 2385 2384
+axiom 1
+MP 2387 2383
+MP 2388 2386
+axiom 0
+axiom 0
+MP 2391 2390
+axiom 0
+axiom 0
+MP 2394 2393
+axiom 1
+MP 2396 2392
+MP 2397 2395
+axiom 1
+axiom 0
+MP 2400 2399
+axiom 1
+MP 2402 2389
+MP 2403 2401
+axiom 1
+MP 2405 2398
+MP 2406 2404
+axiom 1
+axiom 0
+MP 2409 2408
+axiom 0
+axiom 0
+MP 2412 2411
+axiom 1
+MP 2414 2410
+MP 2415 2413
+axiom 1
+axiom 0
+MP 2418 2417
+axiom 1
+MP 2420 2380
+MP 2421 2419
+axiom 1
+MP 2423 2416
+MP 2424 2422
+axiom 1
+axiom 0
+MP 2427 2426
+axiom 1
+MP 2429 2407
+MP 2430 2428
+axiom 1
+MP 2432 2425
+MP 2433 2431
+axiom 0
+axiom 1
+MP 100 91
+axiom 0
+MP 1276 118
+axiom 0
+axiom 0
+MP 2080 2079
+axiom 1
+MP 2082 1278
+axiom 0
+axiom 0
+axiom 0
+MP 1509 196
+axiom 1
+axiom 0
+MP 1518 205
+axiom 1
+MP 2065 1510
+MP 2066 1519
+axiom 0
+axiom 0
+MP 1536 223
+axiom 1
+MP 2071 1537
+MP 2072 2067
+axiom 0
+axiom 0
+MP 2193 770
+axiom 0
+axiom 0
+MP 2196 773
+axiom 1
+MP 2198 2194
+MP 2199 2197
+axiom 1
+axiom 0
+MP 2471 779
+axiom 1
+MP 2473 2073
+MP 2474 2472
+axiom 0
+axiom 0
+MP 2193 770
+axiom 0
+axiom 0
+MP 2480 592
+axiom 0
+axiom 0
+MP 2483 791
+axiom 1
+MP 2485 2481
+MP 2486 2484
+axiom 1
+axiom 0
+MP 2489 797
+axiom 1
+MP 2491 2194
+MP 2492 2490
+axiom 1
+MP 2494 2487
+MP 2495 2493
+axiom 5
+axiom 0
+MP 2498 806
+axiom 8
+axiom 0
+MP 2501 809
+axiom 0
+axiom 0
+MP 2504 812
+axiom 1
+MP 2506 2502
+MP 2507 2505
+axiom 0
+axiom 0
+MP 2510 818
+axiom 0
+axiom 0
+MP 2513 821
+axiom 1
+MP 2515 2511
+MP 2516 2514
+axiom 1
+axiom 0
+MP 2519 827
+axiom 1
+MP 2521 2508
+MP 2522 2520
+axiom 1
+MP 2524 2517
+MP 2525 2523
+axiom 5
+axiom 0
+MP 2498 806
+axiom 0
+axiom 0
+MP 2531 839
+axiom 1
+MP 2533 2499
+MP 2534 2532
+axiom 0
+axiom 0
+MP 2537 845
+axiom 0
+axiom 0
+MP 2540 848
+axiom 1
+MP 2542 2538
+MP 2543 2541
+axiom 1
+axiom 0
+MP 2546 854
+axiom 1
+MP 2548 2535
+MP 2549 2547
+axiom 0
+axiom 0
+MP 2537 845
+axiom 1
+axiom 0
+MP 2555 863
+axiom 0
+axiom 0
+MP 2558 866
+axiom 1
+MP 2560 2556
+MP 2561 2559
+axiom 1
+axiom 0
+MP 2564 872
+axiom 1
+MP 2566 2538
+MP 2567 2565
+axiom 1
+MP 2569 2562
+MP 2570 2568
+axiom 1
+axiom 0
+MP 2573 881
+axiom 1
+MP 2575 2526
+MP 2576 2574
+axiom 1
+MP 2578 2571
+MP 2579 2577
+axiom 0
+axiom 0
+MP 2582 890
+axiom 0
+axiom 0
+MP 2585 893
+axiom 1
+MP 2587 2583
+MP 2588 2586
+axiom 0
+axiom 0
+MP 2591 899
+axiom 0
+axiom 0
+MP 2594 902
+axiom 1
+MP 2596 2592
+MP 2597 2595
+axiom 1
+axiom 0
+MP 2600 908
+axiom 1
+MP 2602 2589
+MP 2603 2601
+axiom 1
+MP 2605 2598
+MP 2606 2604
+axiom 0
+axiom 0
+MP 2609 917
+axiom 0
+axiom 0
+MP 2612 920
+axiom 1
+MP 2614 2610
+MP 2615 2613
+axiom 1
+axiom 0
+MP 2618 926
+axiom 0
+axiom 0
+MP 2621 929
+axiom 1
+MP 2623 2619
+MP 2624 2622
+axiom 1
+axiom 0
+MP 2627 935
+axiom 1
+MP 2629 2616
+MP 2630 2628
+axiom 1
+MP 2632 2625
+MP 2633 2631
+axiom 0
+axiom 0
+MP 2636 944
+axiom 0
+axiom 0
+MP 2639 947
+axiom 1
+MP 2641 2637
+MP 2642 2640
+axiom 1
+axiom 0
+MP 2645 953
+axiom 1
+MP 2647 2643
+MP 2648 2646
+axiom 1
+MP 2650 2634
+MP 2651 2649
+axiom 1
+axiom 0
+MP 2654 962
+axiom 0
+axiom 0
+MP 2657 965
+axiom 1
+MP 2659 2655
+MP 2660 2658
+axiom 1
+axiom 0
+MP 2663 971
+axiom 1
+MP 2665 2652
+MP 2666 2664
+axiom 1
+MP 2668 2661
+MP 2669 2667
+axiom 0
+axiom 0
+MP 2582 890
+axiom 0
+axiom 0
+MP 2585 893
+axiom 1
+MP 2587 2583
+MP 2588 2586
+axiom 1
+axiom 0
+MP 2681 989
+axiom 0
+axiom 0
+MP 2684 992
+axiom 1
+MP 2686 2682
+MP 2687 2685
+axiom 1
+axiom 0
+MP 2690 998
+axiom 1
+MP 2692 2589
+MP 2693 2691
+axiom 1
+MP 2695 2688
+MP 2696 2694
+axiom 1
+axiom 0
+MP 2699 1007
+axiom 1
+MP 2701 2580
+MP 2702 2700
+axiom 1
+MP 2704 2697
+MP 2705 2703
+axiom 1
+MP 2707 2499
+MP 2708 2706
+axiom 6
+axiom 0
+MP 2711 1019
+axiom 8
+axiom 0
+MP 2714 1022
+axiom 0
+axiom 0
+MP 2717 1025
+axiom 1
+MP 2719 2715
+MP 2720 2718
+axiom 0
+axiom 0
+MP 2723 1031
+axiom 0
+axiom 0
+MP 2726 1034
+axiom 1
+MP 2728 2724
+MP 2729 2727
+axiom 1
+axiom 0
+MP 2732 1040
+axiom 1
+MP 2734 2721
+MP 2735 2733
+axiom 1
+MP 2737 2730
+MP 2738 2736
+axiom 6
+axiom 0
+MP 2711 1019
+axiom 0
+axiom 0
+MP 2744 1052
+axiom 1
+MP 2746 2712
+MP 2747 2745
+axiom 0
+axiom 0
+MP 2750 1058
+axiom 0
+axiom 0
+MP 2753 1061
+axiom 1
+MP 2755 2751
+MP 2756 2754
+axiom 1
+axiom 0
+MP 2759 1067
+axiom 1
+MP 2761 2748
+MP 2762 2760
+axiom 0
+axiom 0
+MP 2750 1058
+axiom 1
+axiom 0
+MP 2768 1076
+axiom 0
+axiom 0
+MP 2771 1079
+axiom 1
+MP 2773 2769
+MP 2774 2772
+axiom 1
+axiom 0
+MP 2777 1085
+axiom 1
+MP 2779 2751
+MP 2780 2778
+axiom 1
+MP 2782 2775
+MP 2783 2781
+axiom 1
+axiom 0
+MP 2786 1094
+axiom 1
+MP 2788 2739
+MP 2789 2787
+axiom 1
+MP 2791 2784
+MP 2792 2790
+axiom 0
+axiom 0
+MP 2795 1103
+axiom 0
+axiom 0
+MP 2798 1106
+axiom 1
+MP 2800 2796
+MP 2801 2799
+axiom 0
+axiom 0
+MP 2804 1112
+axiom 0
+axiom 0
+MP 2807 1115
+axiom 1
+MP 2809 2805
+MP 2810 2808
+axiom 1
+axiom 0
+MP 2813 1121
+axiom 1
+MP 2815 2802
+MP 2816 2814
+axiom 1
+MP 2818 2811
+MP 2819 2817
+axiom 0
+axiom 0
+MP 2609 917
+axiom 0
+axiom 0
+MP 2825 1133
+axiom 1
+MP 2827 2610
+MP 2828 2826
+axiom 1
+axiom 0
+MP 2618 926
+axiom 0
+axiom 0
+MP 2834 1142
+axiom 1
+MP 2836 2619
+MP 2837 2835
+axiom 1
+axiom 0
+MP 2840 1148
+axiom 1
+MP 2842 2829
+MP 2843 2841
+axiom 1
+MP 2845 2838
+MP 2846 2844
+axiom 0
+axiom 0
+MP 2636 944
+axiom 0
+axiom 0
+MP 2852 1160
+axiom 1
+MP 2854 2637
+MP 2855 2853
+axiom 1
+axiom 0
+MP 2858 1166
+axiom 1
+MP 2860 2856
+MP 2861 2859
+axiom 1
+MP 2863 2847
+MP 2864 2862
+axiom 1
+axiom 0
+MP 2867 1175
+axiom 0
+axiom 0
+MP 2870 1178
+axiom 1
+MP 2872 2868
+MP 2873 2871
+axiom 1
+axiom 0
+MP 2876 1184
+axiom 1
+MP 2878 2865
+MP 2879 2877
+axiom 1
+MP 2881 2874
+MP 2882 2880
+axiom 0
+axiom 0
+MP 2795 1103
+axiom 0
+axiom 0
+MP 2798 1106
+axiom 1
+MP 2800 2796
+MP 2801 2799
+axiom 1
+axiom 0
+MP 2894 1202
+axiom 0
+axiom 0
+MP 2897 1205
+axiom 1
+MP 2899 2895
+MP 2900 2898
+axiom 1
+axiom 0
+MP 2903 1211
+axiom 1
+MP 2905 2802
+MP 2906 2904
+axiom 1
+MP 2908 2901
+MP 2909 2907
+axiom 1
+axiom 0
+MP 2912 1220
+axiom 1
+MP 2914 2793
+MP 2915 2913
+axiom 1
+MP 2917 2910
+MP 2918 2916
+axiom 1
+MP 2920 2712
+MP 2921 2919
+axiom 8
+axiom 0
+MP 2924 1232
+axiom 1
+MP 2926 2709
+MP 2927 2925
+axiom 1
+MP 2929 2922
+MP 2930 2928
+axiom 9
+axiom 0
+MP 2933 1241
+axiom 1
+MP 2935 2931
+MP 2936 2934
+axiom 7
+axiom 0
+MP 2939 1247
+axiom 1
+MP 2941 2058
+MP 2942 2940
+axiom 1
+MP 2944 2496
+MP 2945 2943
+axiom 1
+MP 2947 2937
+MP 2948 2946
+axiom 5
+axiom 8
+axiom 0
+MP 2952 2951
+axiom 0
+axiom 0
+MP 2955 2954
+axiom 1
+MP 2957 2953
+MP 2958 2956
+axiom 5
+axiom 0
+MP 2961 2950
+axiom 0
+axiom 0
+MP 2964 2963
+axiom 1
+MP 2966 2962
+axiom 0
+axiom 1
+axiom 0
+MP 2970 2969
+axiom 1
+MP 2972 2963
+MP 2973 2971
+axiom 1
+MP 2975 2959
+MP 2976 2974
+axiom 0
+axiom 0
+MP 2979 2978
+axiom 0
+axiom 0
+MP 2982 2981
+axiom 1
+MP 2984 2980
+MP 2985 2983
+axiom 0
+axiom 0
+MP 2988 2987
+axiom 1
+axiom 0
+MP 2991 2990
+axiom 1
+MP 2993 2989
+MP 2994 2992
+axiom 0
+axiom 0
+MP 2997 2996
+axiom 1
+MP 2999 2998
+MP 3000 2995
+axiom 1
+axiom 0
+MP 3003 3002
+axiom 1
+MP 3005 3001
+MP 3006 3004
+axiom 0
+axiom 0
+MP 2979 2978
+axiom 1
+axiom 0
+MP 3012 3011
+axiom 1
+MP 3014 2980
+MP 3015 3013
+axiom 1
+MP 3017 2977
+MP 3018 3016
+MP 3019 2950
+axiom 6
+axiom 8
+axiom 0
+MP 3023 3022
+axiom 0
+axiom 0
+MP 3026 3025
+axiom 1
+MP 3028 3024
+MP 3029 3027
+axiom 6
+axiom 0
+MP 3032 3021
+axiom 0
+axiom 0
+MP 3035 3034
+axiom 1
+MP 3037 3033
+axiom 0
+axiom 1
+axiom 0
+MP 3041 3040
+axiom 1
+MP 3043 3034
+MP 3044 3042
+axiom 1
+MP 3046 3030
+MP 3047 3045
+axiom 0
+axiom 0
+MP 3050 3049
+axiom 0
+axiom 0
+MP 3053 3052
+axiom 1
+MP 3055 3051
+MP 3056 3054
+axiom 0
+axiom 0
+MP 3059 2987
+axiom 1
+axiom 0
+MP 3062 2990
+axiom 1
+MP 3064 3060
+MP 3065 3063
+axiom 0
+axiom 0
+MP 3068 2996
+axiom 1
+MP 3070 3069
+MP 3071 3066
+axiom 1
+axiom 0
+MP 3074 3073
+axiom 1
+MP 3076 3072
+MP 3077 3075
+axiom 0
+axiom 0
+MP 3050 3049
+axiom 1
+axiom 0
+MP 3083 3082
+axiom 1
+MP 3085 3051
+MP 3086 3084
+axiom 1
+MP 3088 3048
+MP 3089 3087
+MP 3090 3021
+axiom 8
+MP 3092 3020
+MP 3093 3091
+axiom 9
+MP 3095 3094
+axiom 7
+MP 3097 1258
+MP 3098 2949
+MP 3099 3096
+Доказательство корректно.
